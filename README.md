@@ -1,7 +1,7 @@
 ## About me
 
 - **AI & Analytics Engineer @ iFood** · Building AI agents and curated data products that accelerate business decisions with reliable, decision-ready data.
-- **B.Sc. in Computer Science @ UFU** · Focused on AI Engineering, Data Engineering, and Software Architecture.
+- **B.Sc. in Computer Science @ UFU** · Strong foundations in algorithms, mathematics, and software engineering, with interests in AI, data systems, and software architecture.
 - **Product Creator @ Redator AI** · Designed an AI-powered SaaS for ENEM essay correction, personalized feedback, and student progress tracking.
 - **Undergraduate Research Alum (CNPq / OBMEP)** · Applied Linear Algebra through a research program for Math Olympiad medalists.
 - **Competitive Programming** · Strong foundations in algorithms, data structures, and problem-solving.
